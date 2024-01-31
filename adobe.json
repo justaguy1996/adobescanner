@@ -14,7 +14,7 @@
       "actor_count":"0xB8",
       "player_array":"0x3f0",
       "inactive_player_array":"0x440",
-      "pawn_private":"0x440"
+      "pawn_private":"0x440",
       "player_controller":"0x38",
       "acknowledged_pawn":"0x468",
       "player_camera":"0x480",
