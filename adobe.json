@@ -2,6 +2,7 @@
    "offsets":{
       "uworld_state":"0xA51CD40",
       "fname_pool":"0xA2E4D40",
+      "fname_pool_state":"0xA317D00",
       "persistent_level":"0x38",
       "owning_game_instance":"0x1A0",
       "client_game_instance":"0x6C0",
