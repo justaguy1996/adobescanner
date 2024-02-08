@@ -25,6 +25,7 @@
       "actor_id":"0x18",
       "fname_id":"0x38",
       "dormant":"0x100",
+      "remote_view_pitch":"0x3EA",
       "player_state":"0x3f8",
       "current_mesh":"0x438",
       "inventory":"0x9A8",
