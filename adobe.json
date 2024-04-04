@@ -1,7 +1,7 @@
 {
    "offsets":{
       "uworld_state":"0xA6F1F00",
-      "fname_pool":"0xA429D40",
+      "fname_pool":"0xA56BF40",
       "fname_pool_state":"0xA45CD00",
       "persistent_level":"0x38",
       "owning_game_instance":"0x1A0",
@@ -32,8 +32,8 @@
       "gadget_mesh":"0x3D8",
       "inventory":"0x9A8",
       "outline_component":"0x11D0",
-      "portrait_map":"0x11b8",
-      "character_map":"0x11b0",
+      "portrait_map":"0x1198",
+      "character_map":"0x11A0",
       "current_equippable":"0x248",
       "local_observer":"0x530",
       "is_visible":"0x501",
