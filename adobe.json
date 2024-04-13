@@ -1,8 +1,8 @@
 {
    "offsets":{
-      "uworld_state":"0xA6F1F00",
-      "fname_pool":"0xA56BF40",
-      "fname_pool_state":"0xA45CD00",
+      "uworld_state":"0xA7A4340",
+      "fname_pool":"0xA56BFC0",
+      "fname_pool_state":"0xA59EF80",
       "persistent_level":"0x38",
       "owning_game_instance":"0x1A0",
       "client_game_instance":"0x6C0",
