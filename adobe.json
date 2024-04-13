@@ -11,7 +11,7 @@
       "map_load_model":"0x498",
       "map_name":"0x58",
       "local_players":"0x40",
-      "actor_array":"0xA8",
+      "actor_array":"0xB0",
       "actor_count":"0xB8",
       "player_array":"0x3F0",
       "inactive_player_array":"0x440",
